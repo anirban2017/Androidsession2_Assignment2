@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="load_icon_string">Start Parallel Download</string>
+    <string name="ITEM_SEARCH">Search Products Here</string>
+    <string name="enter_text">text changes</string>
+    <string name="show_the_text">COMPUTE</string>
+
+</resources>
